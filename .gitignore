@@ -37,7 +37,6 @@
 
 # Plastic SCM 
 .plastic/
-ignore.conf
 
 # Gradle cache directory
 .gradle/
