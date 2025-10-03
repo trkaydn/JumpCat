@@ -20,6 +20,4 @@ This game was created as part of the
 
 ## 🖼️ Screenshots
 
-![Game Image 1](Images/gameplay_1.png)  
-![Game Image 2](Images/gameplay_2.png)  
-![Game Image 3](Images/gameplay_3.png)
+![GamePlay](Images/gameplay.gif)  
