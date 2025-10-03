@@ -11,8 +11,7 @@ The character tries to escape obstacles by **jumping** and **ducking**.
 ---
 
 ## 📌 About the Project
-This game was created as part of the  
-**Unity Game Development Workshop** organized by **BTK Academy** in Ankara.  
+This game was created as part of the **Unity Game Development Workshop** organized by **BTK Academy** in Ankara.  
 
 ![Certificate](Images/certificate.jpg)
 
